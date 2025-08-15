@@ -1,0 +1,3 @@
+gradio
+mistralai
+python-dotenv 
